@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup matlab -nodesktop < tutorial2.m >> outINV 2>&1 &

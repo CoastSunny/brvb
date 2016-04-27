@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup matlab -nodesktop < tutorial1.m >> outRE 2>&1 &
