@@ -1,6 +1,4 @@
-# brvb
-
- Backward Renormalization Priors and the Cortical Source Localization Problem with EEG or MEG
+# BRVB
 
 Matlab code implementing EEG source localization from scalp activity, using Variational Bayes:
 
@@ -11,5 +9,7 @@ in multiple scales, using the variance after conversion in each scale as prior i
 The goal is to localize the sources in a fine grained scale (~2000 to ~10000 dipoles) as usual, but starting from a better starting point compared to constant prior variance accross all dipoles.
 
 For mor information:
+
+* Backward Renormalization Priors and the Cortical Source Localization Problem with EEG or MEG
 
 http://arxiv.org/abs/1502.03481
